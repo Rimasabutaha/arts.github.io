@@ -1,0 +1,57 @@
+h1{
+  text-align: center;
+  color: red;
+  font-style: italic;
+  font-family: monospace;
+  
+}
+
+h2{
+  color:hsla(195, 87%, 57%, 0.94);
+  text-align: center;
+}
+
+table,th,td {
+  border: 1px solid black;
+}
+
+span{
+  color: hsla(0, 72%, 55%, 0.91);
+  background-color:hsla(24, 93%, 88%, 1);
+}
+
+td{
+  text-align: center;
+  line-spacing:;
+}
+
+.label{
+ color: hsla(0, 72%, 55%, 0.91);
+  background-color:hsla(24, 93%, 88%, 1); 
+}
+
+.pink{
+  color:pink;
+}
+
+.darkseagreen{
+  color:#8fbc8f;
+}
+
+.color{
+ color: rgb(140, 57, 204);
+}
+
+.secondcolor{
+  color: hsl(174, 79%, 46%);
+}
+
+.footercolor{
+  background-color:hsla(24, 93%, 88%, 1);
+  color:hsla(0, 72%, 55%, 0.91);
+}
+
+footer{
+  color: #e75ca9;
+  text-align: center;
+}
